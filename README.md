@@ -14,7 +14,6 @@ I'm a seasoned Frontend Tech Lead with a passion for building scalable, performa
 - ⚡ **Performance Optimization** – Turn slow apps into lightning-fast experiences
 - 🏗️ **System Design** – Build scalable component systems and design patterns
 - 🤝 **Cross-functional Collaboration** – Bridge the gap between design, product, and engineering
-- 📚 **Knowledge Sharing** – Write, speak, and teach about frontend best practices
 
 ### 🛠️ Tech Stack & Expertise
 
@@ -49,11 +48,6 @@ const techLead = {
 
 ---
 
-## 📊 GitHub Stats
-
-![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddievlagea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
----
 
 ### 💭 Philosophy
 
